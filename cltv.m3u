@@ -20,13 +20,13 @@ https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 https://g3.proy-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/6P3cAVk7GNmmuj0S16nCnb/a88ae2224ef75d7d31597ec2cffdc7c6/12_canal-9.png?fm=webp&q=80" group-title="Nacionales" , El Nueve
-http://187.102.208.83:50000/play/a04m/index.m3u8
+http://181.209.95.29:8000/play/a0a9/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/7v21fUf1ohsZC8dAioaBTU/1aff791f15e4d84c246e644c06494899/13_canal-13.png?fm=webp&q=80" group-title="Nacionales" , El Trece
 https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/P9DSwbBtpDc64qzkkvaVy/1f341a80ea6da24308d5fe5dd3f610a0/14_canal-todo-noticias.png?fm=webp&q=80" group-title="Nacionales" , Todo Noticias
-https://ythls.kekikakademi.org/youtube/channel/UCj6PcyLvpnIRT_2W_mwa9Aw.m3u8
+http://190.123.90.146:8000/play/a032/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/1EzjHrOUp9kFWVibh33PBx/24e13bd53138b4aa07e5bc88517b888b/05_America24.png?fm=webp&q=80" group-title="Nacionales" , A24
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_720p.m3u8
@@ -68,7 +68,7 @@ https://panel.host-live.com/825000/825000/playlist.m3u8
 https://tv.t5satelital.com/hls/t5satelital.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/2vo7XIfCasCBkyOXDppqgH/0d1c4e3fece963dd9a2c3ed2d253cc3c/49_CANAL_Telediario-noticias.png?fm=webp&q=80" group-title="locales" , Telediario TV
-https://stmvideo2.livecastv.com/telediario/telediario/playlist.m3u8
+http://181.13.23.198:8000/play/a0f7/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/3wqermP720Yh13rvXRsNAY/bacae716bb029ee26e5b97d2da962bdf/50-NORTE_GRANDE_FEDERAL-Noticias.png?fm=webp&q=80" group-title="locales" , Norte Grande Federal
 http://www.coninfo.net:1935/tvlink/live/playlist.m3u8
