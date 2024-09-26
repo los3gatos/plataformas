@@ -7,7 +7,7 @@ https://github.com/mortal251/archivos_m3u8/raw/main/america_hls.m3u8
 https://g3.proy-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ElNueve.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Nueve.png" group-title="Nacionales", El Nueve
-http://187.102.208.83:50000/play/a04m/index.m3u8
+http://181.209.95.29:8000/play/a0a9/index.m3u8
 
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Telefe.png" group-title="Nacionales", Telefe
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8  
@@ -35,7 +35,7 @@ http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0274
 https://unlimited1-buenosaires.dps.live/televidaar/televidaar.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/2vo7XIfCasCBkyOXDppqgH/0d1c4e3fece963dd9a2c3ed2d253cc3c/49_CANAL_Telediario-noticias.png?fm=webp&q=80" group-title="Locales" , Telediario TV
-https://stmvideo2.livecastv.com/telediario/telediario/playlist.m3u8
+http://181.13.23.198:8000/play/a0f7/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1409893446471532551/0g2L283Y_400x400.jpg" group-title="Locales", Canal 7 Jujuy
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
@@ -408,7 +408,7 @@ http://187.102.208.83:50000/play/a02z/index.m3u8
 http://181.13.173.86:8000/play/a01s/index.m3u8
 
 #EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-TN.png" group-title="Noticias", TN
-https://ythls.kekikakademi.org/youtube/channel/UCj6PcyLvpnIRT_2W_mwa9Aw.m3u8
+http://190.123.90.146:8000/play/a032/index.m3u8
 
 #EXTINF:-1 tvg-id="C5N.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-C5N.png" group-title="Noticias", C5N
 http://181.78.27.128:8000/play/a009/index.m3u8
