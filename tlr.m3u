@@ -160,7 +160,7 @@ http://181.13.173.86:8000/play/a020/index.m3u8
 http://181.13.173.86:8000/play/a02v/index.m3u8
 
 #EXTINF:-1 tvg-id="LifetimePanregional.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-Lifetime.png" audio-track="spa" group-title="Entretenimiento", Lifetime
-http://45.71.252.16:8000/play/a09q/index.m3u8
+http://181.13.173.86:8000/play/a06n/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/69tV4QpbgqFdQoLLgzQxB1/3aff5e0e14c47a614e60fd4594f2f213/341-cine.ar.png?fm=webp&q=80" group-title="Entretenimiento" , CINE AR 
 http://181.13.173.86:8000/play/a024/index.m3u8
@@ -175,8 +175,7 @@ http://181.13.173.86:8000/play/a0a6/index.m3u8
 http://181.13.173.86:8000/play/a02x/index.m3u8
 
 #EXTINF:-1 tvg-id="TBSSouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/06-TNTNovelas.png" audio-track="spa" group-title="Entretenimiento", TNT Novelas
-http://45.71.252.16:8000/play/a0b2/index.m3u8
-
+http://181.78.27.128:8000/play/a044/index.m3u8
 
 
 
@@ -228,7 +227,7 @@ http://181.209.114.13:8000/play/a02c/index.m3u8
 http://181.13.173.86:8000/play/a01n/index.m3u8
 
 #EXTINF:-1 tvg-id="ar#boomerang-cartoon" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-Cartoonito.png" audio-track="spa" group-title="Infantiles", Cartoonito
-http://187.102.208.83:50000/play/a05m/index.m3u8
+http://186.167.80.82:8126/play/a0eb/index.m3u8
 
 #EXTINF:-1 tvg-id="CartoonNetworkSouthAtlantic.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-CartoonNetwork.png" audio-track="spa" group-title="Infantiles", Cartoon Network
 http://181.13.173.86:8000/play/a075/index.m3u8
@@ -246,7 +245,7 @@ http://181.13.173.86:8000/play/a02e/index.m3u8
 http://181.13.173.86:8000/play/a0ac/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/200px-Tooncast_logo.svg.png" group-title="Infantiles", Tooncast 
-http://181.204.184.123:8000/play/a05c/index.m3u8
+http://186.167.80.82:8126/play/a0f1/index.m3u8
 
 #EXTINF:-1 tvg-id="ar#nickelodeon-hd" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-Nickelodeon.png" audio-track="spa" group-title="Infantiles", Nickelodeon
 http://181.13.173.86:8000/play/a0am/index.m3u8
@@ -268,7 +267,7 @@ http://45.5.117.182:8000/play/a0fg/index.m3u8
 https://ythls.kekikakademi.org/youtube/channel/UCPumJ2ayrr-JDsA9JDCUDDQ.m3u8 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/langfr-512px-InvestigationDiscoveryLogo2020.svg.png" group-title="Varios", ID
-http://177.53.153.20:8001/play/a02j/index.m3u8
+http://181.78.27.128:8000/play/a041/index.m3u8
 
 #EXTINF:-1 tvg-id="FoodNetworkPanregional.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/09-FoodNetwork.png" audio-track="spa" group-title="Varios", Food Network
 https://dplus.gammacdn.workers.dev/videos/112.m3u8 
