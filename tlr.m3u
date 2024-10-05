@@ -271,13 +271,13 @@ https://ythls.kekikakademi.org/youtube/channel/UCPumJ2ayrr-JDsA9JDCUDDQ.m3u8
 http://177.53.153.20:8001/play/a02j/index.m3u8
 
 #EXTINF:-1 tvg-id="FoodNetworkPanregional.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/09-FoodNetwork.png" audio-track="spa" group-title="Varios", Food Network
-http://177.53.153.20:8001/play/a03v/index.m3u8
+https://dplus.gammacdn.workers.dev/videos/112.m3u8 
 
 #EXTINF:-1 tvg-id="ElGourmetSouth.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/09-ElGourmet.png" audio-track="spa" group-title="Varios", El Gourmet
 http://181.13.173.86:8000/play/a06w/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/50.png" group-title="Varios", E! 
-http://45.71.252.16:8000/play/a0aj/index.m3u8
+http://191.52.214.5:8000/play/a03f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/j4t5hEoHBnlm_a7wiArlgkSYC7cU5W0gSPCWG3IWsu5zQrCuinV3PL57bFP8FVwKJEaR621ZXw=s160-c-k-c0x00ffffff-no-rj" group-title="Varios", Diputados TV 
 https://ythls.kekikakademi.org/youtube/channel/UC1h8_HKc5wScqeRw1HV6a6w.m3u8
@@ -315,7 +315,7 @@ http://181.13.173.86:8000/play/a0al/index.m3u8
 http://181.78.27.128:8000/play/a03u/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/6XQjTLV1YxXlHhne0eIg6T/7cdfa6b28114f0c346bf0ba3be684c5b/88_HogarTV.png?fm=webp&q=80" group-title="Culturales" , Hogar TV 
-http://45.177.53.7:8000/play/a0jm/index.m3u8
+http://181.209.95.29:8000/play/a02j/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1200px-Discovery_Science_2017_Logo.svg.png" group-title="Entretenimiento", Discovery Science
 http://181.13.173.86:8000/play/a02k/index.m3u8
