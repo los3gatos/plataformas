@@ -52,7 +52,7 @@ http://181.78.27.128:8000/play/a04t/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/7eZSig7m04RPctxKG7WkVd/37bdb0192cf9835d03356ac176884fb7/22-CANAL_E-Noticias.png?fm=webp&q=80" group-title="Nacionales",  CANAL E
 https://unlimited1-buenosaires.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/6anjLBsxr65zcwVhdtzjRb/5a9b524c63ab7d40c6a678bd6a5aaeea/25_diputados-tv.png?fm=webp&q=80" group-title="Nacionales" , Diputados TV
+#EXTINF:-1 tvg-logo="Diputados" group-title="https://yt3.googleusercontent.com/j4t5hEoHBnlm_a7wiArlgkSYC7cU5W0gSPCWG3IWsu5zQrCuinV3PL57bFP8FVwKJEaR621ZXw=s160-c-k-c0x00ffffff-no-rj" , Diputados TV
 https://ythls.kekikakademi.org/youtube/channel/UC1h8_HKc5wScqeRw1HV6a6w.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/3McziTZ5M5VJkRn4IBIPAh/53add865f835209e59decf37bacb705e/Metro.png?fm=webp&q=80" group-title="Nacionales" , METRO
