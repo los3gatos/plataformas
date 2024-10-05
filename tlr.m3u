@@ -331,7 +331,7 @@ http://190.211.102.42:4000/play/a04g/index.m3u8
 http://181.13.173.86:8000/play/a02m/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/FgFGNa1nlJe1421Gml6tS/973fd196608694bb8250967c8dd026c9/120_NickMusic.png?fm=webp&q=80" group-title="Musica" , Nick Music
-http://45.179.164.30:8000/play/a012/index.m3u8
+http://186.148.195.206:8000/play/a01t/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/33QT9mcUIUX6ezV5xXA61r/6da57dc09d602d6ba128357517588d3c/115_MTVHits.png?fm=webp&q=80" group-title="Musica" , MTV Hits
 http://45.5.117.182:8000/play/a0f1/index.m3u8
@@ -356,13 +356,13 @@ http://181.209.114.13:8000/play/a02n/index.m3u8
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/62bb79a9e887494aeb7b53d7/e22297a85b98822efbb3ad61ec2ae898?tr=q-80&w=1920" group-title="Internacionales", Las Estrellas
-http://181.176.153.106:8090/play/a0ll/index.m3u8
+http://181.209.95.29:8000/play/a06z/index.m3u8
 
 #EXTINF:-1 tvg-id="France24Espanol.fr" tvg-logo="https://pbs.twimg.com/profile_images/875649264826724352/7ZsxO5yi_400x400.jpg" group-title="Internacionales", FRANCE 24 ESPAÑOL
 https://ythls.kekikakademi.org/youtube/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/7jOLhFfEgvIJD81fcVjRpD/95fddfd8e7b896ea3dca3c6ee63fbe42/62_TVE.png?fm=webp&q=80" group-title="Internacionales" , TVE
-http://45.71.252.16:8000/play/a09o/index.m3u8
+http://181.209.95.29:8000/play/a072/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/1200px-Televisi%C3%B3n_de_Galicia_Logo.svg.png" group-title="Internacionales", GALICIA TV
 https://crtvg-europa.flumotion.cloud/playlist.m3u8
