@@ -74,7 +74,7 @@ http://181.13.23.198:8000/play/a0f7/index.m3u8
 http://www.coninfo.net:1935/tvlink/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/HACpPafOQ9Yj5f8T8Ey1Y/fe9b0f454657b8c4812a138c5870239e/12_ClaroSports.png?fm=webp&q=80" group-title="Deportes" , Claro Sports
-http://181.78.105.146:2000/play/a053/index.m3u8
+http://streamsy.online:2999/korrigan17/25AUFBdqOi/1700
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/6IbZzov0IsfGwSja8FthCt/cf83d31a80d595a8cd88259bfcf505e1/Canal_-_TyCSports.png?fm=webp&q=80" group-title="Deportes" , TyC Sports
 http://181.78.27.128:8000/play/a063/index.m3u8 
@@ -143,10 +143,10 @@ http://181.13.173.86:8000/play/a075/index.m3u8
 http://181.13.173.86:8000/play/a01n/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/37uTr8IZwl0UWGylvFA5dA/72ec78ca5103de251fd0b241d3b9eca4/cartoonito.png?fm=webp&q=80" group-title="Infantiles" , Cartoonito
-http://187.102.208.83:50000/play/a05m/index.m3u8
+http://186.167.80.82:8126/play/a0eb/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/7IRItnDZbY1YV1Zf8NA0eu/24b16ed7317309e358903eaaea4f7e57/39_Tooncast.png?fm=webp&q=80" group-title="Infantiles" , Tooncast
-http://181.204.184.123:8000/play/a05c/index.m3u8
+http://186.167.80.82:8126/play/a0f1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/3uX75Uy298axY2CNWmBjdX/9b3bcc5728d57e876a2d41ac8357dfa3/40_BabyTV.png?fm=webp&q=80" group-title="Infantiles" , BabyTV
 http://181.13.173.86:8000/play/a02e/index.m3u8
@@ -209,7 +209,7 @@ http://181.78.27.128:8000/play/a03z/index.m3u8
 http://181.13.173.86:8000/play/a021/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/7jOLhFfEgvIJD81fcVjRpD/95fddfd8e7b896ea3dca3c6ee63fbe42/62_TVE.png?fm=webp&q=80" group-title="Entretenimiento" , TVE
-http://45.71.252.16:8000/play/a09o/index.m3u8
+http://181.209.95.29:8000/play/a072/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/7jOLhFfEgvIJD81fcVjRpD/95fddfd8e7b896ea3dca3c6ee63fbe42/62_TVE.png?fm=webp&q=80" group-title="Entretenimiento" , STAR TVE
 http://186.148.163.18:8000/play/a04m/index.m3u8
@@ -236,7 +236,7 @@ http://181.13.173.86:8000/play/a02x/index.m3u8
 http://181.13.173.86:8000/play/a024/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/3YoPUcjcrgs25FVGqJd5R2/79f67e8e24034d93ea3093168ac03a63/72_RCNNovelas.png?fm=webp&q=80" group-title="Entretenimiento" , RCN Novelas
-http://45.176.232.106:45000/play/a01u/index.m3u8
+http://181.78.27.128:8000/play/a040/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/dxjEQOGHXp4wEckENKXFT/f525dcd5d21914ca2c54cbebabf62cb1/75_CanalClaroHD.png?fm=webp&q=80" group-title="Entretenimiento", Canal Claro
 http://38.43.151.206:8000/play/a05x/index.m3u8
@@ -339,7 +339,7 @@ http://181.13.173.86:8000/play/a09j/index.m3u8
 https://ythls.kekikakademi.org/youtube/channel/UCPumJ2ayrr-JDsA9JDCUDDQ.m3u8 
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/4Pdlm_CqA7QH1YapYrh5qEwiwgeg6lSZ1rwaBAL57gPJS3yxzQT3bHLihVRx6Y6-A4LFnGsXJg=s176-c-k-c0x00ffffff-no-rj" group-title="Varios", Chacra TV
-https://s8.stweb.tv/chacra/live/playlist.m3u8
+https://g5.vxral-hor.transport.edge-access.net/a11/ngrp:gcba_video3-100042_all/gcba_video3-100042_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/6ON8A9RJLupcBvYnw9uKhN/e2163b8f88b1bcf59259e328a0457698/97_CNNEspanol.png?fm=webp&q=80" group-title="Internacional" , CNN Español 
 http://181.13.173.86:8000/play/a0ab/index.m3u8
