@@ -142,7 +142,7 @@ http://181.13.173.86:8000/play/a02r/index.m3u8
 http://181.13.173.86:8000/play/a0am/index.m3u8
 
 #EXTINF:-1 tvg-id="ar#boomerang-cartoon" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-Cartoonito.png" audio-track="spa" group-title="Infantiles", Cartoonito
-http://187.102.208.83:50000/play/a05m/index.m3u8
+http://186.167.80.82:8126/play/a0eb/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.reportv.com.ar/buscador/img/Logos/20068539.jpg" group-title="Infantiles", Dreamworks
 http://200.115.120.1:8000/play/ca005/index.m3u8
@@ -160,7 +160,7 @@ http://181.13.173.86:8000/play/a06u/index.m3u8
 http://181.13.173.86:8000/play/a02e/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/200px-Tooncast_logo.svg.png" group-title="Infantiles", Tooncast 
-http://181.204.184.123:8000/play/a05c/index.m3u8
+http://186.167.80.82:8126/play/a0f1/index.m3u8
 
 
 
@@ -267,7 +267,7 @@ http://181.13.173.86:8000/play/a0a6/index.m3u8
 http://181.13.173.86:8000/play/a02x/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/06-TNTNovelas.png" audio-track="spa" group-title="Entretenimiento", TNT Novelas
-http://181.176.153.106:8090/play/a0la/index.m3u8
+http://181.78.27.128:8000/play/a044/index.m3u8
 
 #EXTINF:-1 tvg-id="ParamountNetworkPanregional.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Paramount.png" tvg-language="Spanish" group-title="Entretenimiento", Paramount Channel
 http://181.13.173.86:8000/play/a02y/index.m3u8
@@ -366,10 +366,10 @@ https://dplus.gammacdn.workers.dev/videos/112.m3u8
 http://181.13.173.86:8000/play/a02k/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/7jOLhFfEgvIJD81fcVjRpD/95fddfd8e7b896ea3dca3c6ee63fbe42/62_TVE.png?fm=webp&q=80" group-title="Entretenimiento" , STAR TVE
-http://187.102.208.83:50000/play/a00k/index.m3u8
+http://200.60.124.19:29000/play/a06x/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/6XQjTLV1YxXlHhne0eIg6T/7cdfa6b28114f0c346bf0ba3be684c5b/88_HogarTV.png?fm=webp&q=80" group-title="Culturales" , Hogar TV 
-http://45.177.53.7:8000/play/a0jm/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/6XQjTLV1YxXlHhne0eIg6T/7cdfa6b28114f0c346bf0ba3be684c5b/88_HogarTV.png?fm=webp&q=80" group-title="Culturales" , HGTV 
+http://181.209.95.29:8000/play/a02j/index.m3u8
 
 #EXTINF:-1 tvg-id="MTVSouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/08-MTV.png" audio-track="spa" group-title="Musica", MTV
 http://181.13.173.86:8000/play/a02m/index.m3u8
