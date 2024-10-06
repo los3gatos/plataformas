@@ -264,13 +264,13 @@ http://181.13.173.86:8000/play/a02w/index.m3u8
 
 
 #EXTINF:-1 tvg-id="ar#hbo" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBO.png" audio-track="spa" group-title="Premium", HBO
-http://181.209.114.13:8000/play/a06o/index.m3u8
+http://181.78.27.128:8000/play/a030/index.m3u8
 
 #EXTINF:-1 tvg-id="ar#hbo-2-hd" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBO2.png" audio-track="spa" group-title="Premium", HBO 2
 http://181.209.114.13:8000/play/a06q/index.m3u8
 
 #EXTINF:-1 tvg-id="ar#hbo-plus-este" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOPlus.png" audio-track="spa" group-title="Premium", HBO Plus
-http://181.209.114.13:8000/play/a06p/index.m3u8
+http://181.78.27.128:8000/play/a027/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/77tiTKhe5p80XL5mgv2GX4/17c2b387b7a33cb13dbd5abbec8fe5ba/Premium_07_HBOSignature.png?fm=webp&q=80" group-title="Premium" , HBO Signature
 http://181.209.114.13:8000/play/a02c/index.m3u8
