@@ -35,13 +35,13 @@ https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-10005
 http://45.5.151.151:8000/play/a018/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/cA702Z8R51jE9iHCMRUNQ/22dac305e0bd1e2b8de00c05280611f4/07_Cronica.png?fm=webp&q=80" group-title="Nacionales" , Cronica
-http://181.78.27.128:8000/play/a04k/index.m3u8
+https://g4.mc-slo.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-LN.png" group-title="Nacionales" , LA NACION
 http://181.13.173.86:8000/play/a01s/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/5l4mX6T5S99MoV24ss1vT2/3788b94142ed98b2e3b5fb200fc0acf4/15_informacion_periodistica.png?fm=webp&q=80" group-title="Nacionales", IP
-http://181.78.27.128:8000/play/a055/index.m3u8
+http://190.11.130.46/mnp/ip/output.mpd
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/44c39L5vrAJMmitx6stmVN/aada5123e58530c834a4715aafce63e8/20_CANAL-26-noticias.png?fm=webp&q=80" group-title="Nacionales" , CANAL 26
 http://45.5.151.151:8000/play/a0e1/index.m3u8
