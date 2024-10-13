@@ -45,7 +45,7 @@ http://45.5.151.151:8000/play/a0e1/index.m3u8
 http://181.13.173.86:8000/play/a01s/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/IP_NOTICIAS.jpg" group-title="locales", IP Noticias
-https://clearnet.cdn.rcs.net.ar/mnp/ip/output.mpd
+http://181.78.27.128:8000/play/a055/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/2dIwrSKRhygkznvuuGF9fT/0d89173f692a17338a3e8a25ece47e60/Canal_-_ArgentisimaSatelital.png?fm=webp&q=80" group-title="locales" , Argentinisima Satelital
 https://stream1.sersat.com/hls/argentinisima.m3u8
