@@ -52,7 +52,7 @@ http://181.209.114.13:8000/play/a01m/index.m3u8
 http://181.13.173.86:8000/play/a0ab/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/IP_NOTICIAS.jpg" group-title="Nacionales", IP Noticias
-https://clearnet.cdn.rcs.net.ar/mnp/ip/output.mpd
+http://181.78.27.128:8000/play/a055/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/vPjSedcJZggFmkyjCh8lWuqaDFeuyaLKEOio7xibiwvSs1aUZ7CeyCQenE9TUJPmtqRwHZR3cA=s160-c-k-c0x00ffffff-no-rj" group-title="Nacionales", Diputados TV 
 http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0103
