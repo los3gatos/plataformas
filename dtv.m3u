@@ -122,7 +122,7 @@ http://45.232.148.101:8000/play/a05p/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/62bb79a9e887494aeb7b53d7/e22297a85b98822efbb3ad61ec2ae898?tr=q-80&w=1920" group-title="Entretenimiento", Las Estrellas
 http://181.209.95.29:8000/play/a06z/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://prensa.televisa.com/wp-content/uploads/2022/03/tlnovelas.jpg" group-title="Entretenimiento", Telenovelas
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_tlnovelas_feb2019.png/716px-Logo_tlnovelas_feb2019.png" group-title="Entretenimiento", Telenovelas
 http://181.176.153.106:8090/play/a0ox/index.m3u8
 
 #EXTINF:-1 tvg-id="LifetimePanregional.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-Lifetime.png" audio-track="spa" group-title="Entretenimiento", Lifetime
@@ -148,6 +148,9 @@ https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/Mq0oDJsOGLGwmqR3jljjd/3b623163d3192f59a41720d0418c2813/canal-volver.png?fm=webp&q=80" group-title="Entretenimiento" , Volver
 http://181.13.173.86:8000/play/a021/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://fotos.perfil.com/2024/03/04/trim/1280/720/caras-tv-1764928.jpg" group-title="Entretenimiento", CARAS TV 
+https://unlimited1-buenosaires.dps.live/carastv/carastv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MTVSouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/08-MTV.png" audio-track="spa" group-title="Musica", MTV
 http://181.13.173.86:8000/play/a02m/index.m3u8
@@ -227,8 +230,8 @@ http://181.13.173.86:8000/play/a07d/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdsmeTJY2mvWtN2F5JoSICxKunTJlivjcEyg&s" audio-track="spa" group-title="Cine", Golden
 http://streamsy.online:2999/korrigan17/25AUFBdqOi/1624
 
-#EXTINF:-1 tvg-logo="https://affiliates.cinesony.com/themes/custom/cinesony_theme/images/sonycine-logo.png" group-title="Cine", Sony Cine
-https://cdn1-6p.teleuptv.net/a770b798-f2c0-4251-949d-b2fdc6d51898/tracks-v3a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/598px-Sony_Movies_Logo.svg.png" group-title="Cine", Sony Movies
+http://192.141.95.253:8000/play/a01e/index.m3u8
 
 #EXTINF:-1 tvg-id="CinecanalEast.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Cinecanal.png" audio-track="spa" group-title="Cine", Cinecanal
 http://181.13.173.86:8000/play/a07b/index.m3u8
@@ -465,8 +468,7 @@ http://181.13.173.86:8000/play/a0aj/index.m3u8
 #EXTINF:-1 tvg-id="History2Panregional.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-History2.png" audio-track="spa" group-title="Culturales", History 2
 http://181.78.109.49:8000/play/a03k/index.m3u8
 
-#EXTINF:-1 tvg-id="FilmandArts.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/film_and_arts-mediano.png" group-title="Culturales", Film & Arts HD
-http://181.13.173.86:8000/play/a030/index.m3u8
+
 
 
 
