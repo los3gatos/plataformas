@@ -113,10 +113,10 @@ http://181.13.173.86:8000/play/a01w/index.m3u8
 http://200.115.96.66:4000/play/a0e0/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/1m48kPqvytUYePblxkLeXF/3b04e0bb9875fef90320938dbbb811fe/Canal_-_ESPN_Sport_Premium.png?fm=webp&q=80" group-title="Deportes" , ESPN PREMIUN
-http://45.5.151.151:8000/play/a0fe/index.m3u8
+http://181.209.114.13:8000/play/a078/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/6iImzHdrQ2ec0JbRAFKEDG/354cf6196b96de87f6bc2e195e7e866b/Premium_02_TNTSports-color.png?fm=webp&q=80" group-title="Deportes" , TNT SPORTS
-http://45.5.151.151:8000/play/a002/index.m3u8
+http://181.209.114.13:8000/play/a02u/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/4vHPfk0CvMP0EJNkC80AmI/4ab2051a0484bb03dc8ab5ab7cfd62e1/25_DiscoveryKids.png?fm=webp&q=80" group-title="Infantiles" , Discovery Kids
 http://181.13.173.86:8000/play/a06t/index.m3u8
