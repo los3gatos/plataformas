@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-guide="https://raw.githubusercontent.com/dvds1151/AR-TV/main/epg/artv-guide.xml" tv-test="arg.m3u"
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xdsxNVXq/609-Canal-Ciudad.png" group-title="Nacionales", Canal de la Ciudad  
-https://ythls.kekikakademi.org/youtube/channel/UCOV_Vx1baZJY9Tfvgm-UI3w.m3u8
+https://ythls-v3.onrender.com/channel/UCOV_Vx1baZJY9Tfvgm-UI3w.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/3McziTZ5M5VJkRn4IBIPAh/53add865f835209e59decf37bacb705e/Metro.png?fm=webp&q=80" group-title="Nacionales", Metro
 http://181.13.173.86:8000/play/a02g/index.m3u8
@@ -291,7 +291,7 @@ http://181.78.27.128:8000/play/a03u/index.m3u8
 http://181.209.95.29:8000/play/a02j/index.m3u8
 
 #EXTINF:-1 tvg-id="CanalRural.ar" tvg-logo="https://3.bp.blogspot.com/-kRrQVEhftUU/V-_RmD35S8I/AAAAAAAABB0/3CbSCG5SblctjXDXlMkNc8V0bZHVAfFZACLcB/s1600/canalrural-2016.png" group-title="Varios", Rural TV
-https://ythls.kekikakademi.org/youtube/channel/UCPumJ2ayrr-JDsA9JDCUDDQ.m3u8 
+https://ythls-v3.onrender.com/channel/UCPumJ2ayrr-JDsA9JDCUDDQ.m3u8 
 
 #EXTINF:-1 tvg-logo="https://viajartv.tv/wp-content/uploads/2018/05/logo-viajar-new.png" group-title="Varios", Viajar
 https://stmv5.livecastv.com/manualtman/manualtman/playlist.m3u8
