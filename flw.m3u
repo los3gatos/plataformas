@@ -57,7 +57,7 @@ http://181.13.173.86:8000/play/a0ab/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/IP_NOTICIAS.jpg" group-title="Nacionales", IP Noticias
 http://181.78.27.128:8000/play/a055/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/vPjSedcJZggFmkyjCh8lWuqaDFeuyaLKEOio7xibiwvSs1aUZ7CeyCQenE9TUJPmtqRwHZR3cA=s160-c-k-c0x00ffffff-no-rj" group-title="Nacionales", Diputados TV 
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/j4t5hEoHBnlm_a7wiArlgkSYC7cU5W0gSPCWG3IWsu5zQrCuinV3PL57bFP8FVwKJEaR621ZXw=s160-c-k-c0x00ffffff-no-rj" group-title="Nacionales", Diputados TV 
 http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0103
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaRGO4j6_mLGeLiFV6tWQZaY_xL6He9--A3M-IRnpA=s176-c-k-c0x00ffffff-no-rj" group-title="Nacionales", Senado TV
