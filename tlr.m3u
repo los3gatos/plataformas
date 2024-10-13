@@ -340,7 +340,7 @@ http://45.5.117.182:8000/play/a0f1/index.m3u8
 #EXTINF:-1 tvg-id="HTV.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/08-HTV.png" audio-track="spa" group-title="Musica", HTV
 http://186.189.222.205:1993/play/023/index.m3u8
 
-#EXTINF:-1 tvg-id="CMElCanaldelaMusica.ar" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/cm.png" group-title="Musica", CM
+#EXTINF:-1 tvg-id="CMElCanaldelaMusica.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Logocmtvargentina.png" group-title="Musica", CM
 #EXTVLCOPT:http-referrer=https://vmf.edge-apps.net
 https://g5.proy-hor.transport.edge-access.net/b08/ngrp:CM_CanaldelaMusica-100044_all/CM_CanaldelaMusica-100044_720p.m3u8
 
