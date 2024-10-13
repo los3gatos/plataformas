@@ -55,10 +55,10 @@ http://181.13.173.86:8000/play/a021/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Espn.png" group-title="Deportes", ESPN Premium 
-http://45.5.151.151:8000/play/a0fe/index.m3u8
+http://181.209.114.13:8000/play/a078/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-TNTSports.png" group-title="Deportes", TNT Sports 
-http://45.5.151.151:8000/play/a002/index.m3u8
+http://181.209.114.13:8000/play/a02u/index.m3u8
 
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-TyC.png" group-title="Deportes", TyC Sports  
 http://181.78.27.128:8000/play/a063/index.m3u8 
