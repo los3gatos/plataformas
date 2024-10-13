@@ -389,7 +389,7 @@ http://45.5.117.182:8000/play/a0ci/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/6bFkcbsklRXLeB2ajrnCl8/c5ccbf53c3ab168c6448fb76265d5778/canal-quiero-musica.png?fm=webp&q=80" group-title="Musica" , Quiero Música
 http://181.209.114.13:8000/play/a02n/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/1DblwFFbxHwdhBQSGMOLou/f556b80bb9004ebd325b9830323a17c7/113_CanaldelaMusica.png?fm=webp&q=80" group-title="Musica" , CM
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Logocmtvargentina.png" group-title="Musica" , CM
 https://g5.proy-hor.transport.edge-access.net/b08/ngrp:CM_CanaldelaMusica-100044_all/CM_CanaldelaMusica-100044_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/4GowLVlc2RoBBB34weJeEP/e702560df8180ab04559ad4e2ef5ba12/114_MTV.png?fm=webp&q=80" group-title="Musica" , MTV
