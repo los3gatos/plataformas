@@ -80,13 +80,13 @@ http://streamsy.online:2999/korrigan17/25AUFBdqOi/1700
 http://181.78.27.128:8000/play/a063/index.m3u8 
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/3NCwVCRCmBEov5n6ou5hAA/c4270c0c6d2988c47c6350ca36175180/13_ESPN.png?fm=webp&q=80" group-title="Deportes" , ESPN
-http://181.78.27.128:8000/play/a03q/index.m3u8
+http://181.13.173.86:8000/play/a0af/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/4mdSmIihFejWNGVPiIMkvz/d76a823f16543c95ec31e0cea741201a/14_ESPN2.png?fm=webp&q=80" group-title="Deportes" , ESPN 2
-http://181.78.27.128:8000/play/a02d/index.m3u8
+http://181.13.173.86:8000/play/a0ag/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/40Af6YGkRbNo4itC8W6bq4/609b923b2441aa8b32a7d5f9fec977c9/15_ESPN3.png?fm=webp&q=80" group-title="Deportes" , ESPN 3
-http://181.78.27.128:8000/play/a03f/index.m3u8
+http://181.13.173.86:8000/play/a0ah/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariano2718/icons/main/ESPN%204.jpg" group-title="Deportes",ESPN 4
 http://181.13.173.86:8000/play/a076/index.m3u8
