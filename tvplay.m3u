@@ -289,5 +289,5 @@ http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/ChillhopMusic.
 #EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/MusicTop_285.png" group-title="TV PLAY", MUSIC TOP
 http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/musictop.playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/RetroTV_285.png group-title="TV PLAY", RETRO TV
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/RetroTV_285.png" group-title="TV PLAY", RETRO TV
 http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/retro.playlist.m3u8
