@@ -309,7 +309,7 @@ https://022d66c197dd4a1e9008e0134a74f34e.mediatailor.us-east-1.amazonaws.com/v1/
 http://181.13.173.86:8000/play/a06w/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/3vkHgQ8kJJA1LRCK8LzZzZ/f25831b884baae7d80d8fab795a9be81/80_MasChic.png?fm=webp&q=80" group-title="Varios" , MAS CHIC
-http://45.166.93.74:8000/play/a0gj/index.m3u8
+http://200.52.148.194:8000/play/a069/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/3sswkG0BLaUI5CuxxdNiQg/0c362f7462bf1fa5c58ea8b9763cc7e3/85_FoodNetwork.png?fm=webp&q=80" group-title="Varios" , Food Network 
 https://dplus.gammacdn.workers.dev/videos/112.m3u8
