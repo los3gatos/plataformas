@@ -396,7 +396,7 @@ https://g5.proy-hor.transport.edge-access.net/b08/ngrp:CM_CanaldelaMusica-100044
 http://190.211.102.42:4000/play/a04g/index.m3u8
 
 #EXTINF:-1 tvg-id="HTV.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/08-HTV.png" audio-track="spa" group-title="Musica", HTV
-http://186.189.222.205:1993/play/023/index.m3u8
+http://200.52.148.194:8000/play/a04j/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/33QT9mcUIUX6ezV5xXA61r/6da57dc09d602d6ba128357517588d3c/115_MTVHits.png?fm=webp&q=80" group-title="Musica" , MTV Hits
 http://45.5.117.182:8000/play/a0f1/index.m3u8
