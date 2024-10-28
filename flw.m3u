@@ -154,7 +154,7 @@ http://181.13.173.86:8000/play/a0ac/index.m3u8
 http://181.13.173.86:8000/play/a02e/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/200px-Tooncast_logo.svg.png" group-title="Infantiles", Tooncast 
-http://186.167.80.82:8126/play/a0f1/index.m3u8
+http://200.52.148.194:8000/play/a04s/index.m3u8
 
 #EXTINF:-1 tvg-id="NickJrSouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-NickJr.png" audio-track="spa" group-title="Infantiles", Nick Jr
 http://181.13.173.86:8000/play/a06u/index.m3u8
